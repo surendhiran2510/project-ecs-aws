@@ -1,4 +1,4 @@
-FROM openjdk:8
+FROM public.ecr.aws/docker/library/openjdk:11
 VOLUME /tmp
 ADD target/spring-petclinic-2.3.0.jar app.jar
 EXPOSE 8080
