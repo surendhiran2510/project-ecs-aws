@@ -10,7 +10,7 @@ This repo is designed to get some hands-on experience using AWS CI/CD tools to b
 The PetClinic sample application is designed using Spring application framework. It uses AWS RDS (MySQL) at the backend and use MAVEN to build the app and containerize using Docker.
 
 ## Architecture
-![Architecture](images/Screenshot 2024-04-27 191436.png)
+![Architecture](images/arch_img.png)
 
 ## Prerequisites
 
